@@ -1,2 +1,3 @@
-# authentication-interop
-A collection of interfaces to help with making framework independent authentication libraries
+# Authentication Interoperability
+
+*authentication-interop* attempts to identify and standardise features in *authentication* objects in an effort to achive interoperability.
